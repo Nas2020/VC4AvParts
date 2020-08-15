@@ -99,6 +99,18 @@ Application is Proof Of Concept. And still initial stages of developement. A sim
 </p>
 
 
+## How to run the demo
+
+``` sh
+   1. gitclone the repository to local drive
+   2. terminal 1 npm install
+   3. terminal 2 cd backend
+   4. npm install
+   5. change .env-dev to .env
+   6. terminal 2 -> nodemon
+   7. terminal 1 -> npm start
+```
+
 ## :book: Resources and technologies :computer:
 
 
