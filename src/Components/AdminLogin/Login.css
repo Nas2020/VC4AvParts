@@ -1,0 +1,16 @@
+
+.App-logo {
+  height: 100px;
+  pointer-events: none;
+}
+
+.LoginHeader {
+  background-color: #f4f5f7;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: rgb(131, 7, 248);
+}
+
